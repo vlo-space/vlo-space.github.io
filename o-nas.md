@@ -15,7 +15,7 @@ Jesteśmy grupą osób zainteresowanych technologią. Wszyscy chodzimy do V Lice
         <div>
             <h2>Jan Stolarczyk</h2>
             <p>
-                Pasjonuję się szeroko pojętymi naukami przyrodniczymi i ścisłymi, w szczególności biologią, matematyką, chemią oraz fizyką. Jestem liderem drużyny, po za tym zajmuję się mechaniką, oraz kwestiami finansowymi.
+                Pasjonuję się szeroko pojętymi naukami przyrodniczymi i ścisłymi, w szczególności biologią, matematyką, chemią oraz fizyką. Jestem liderem drużyny, poza tym zajmuję się mechaniką, oraz kwestiami finansowymi.
             </p>
         </div>
         <img class="avatar" src="assets/avatars/jan.png">
