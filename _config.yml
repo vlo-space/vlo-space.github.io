@@ -4,9 +4,9 @@ title: "VLO Space" # the name of your site, e.g. ACME Corp.
 defaults:
   -
     scope:
-      path: "" # an empty string here means all files in the project
+        path: "" # an empty string here means all files in the project
     values:
-      layout: "default"
-
+        layout: "default"
+        
 sass:
-  style: compressed
+    style: compressed
