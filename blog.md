@@ -11,7 +11,7 @@ title: "Strona główna"
                 <a href="{{ post.url }}">
                     <div class="card">
                         <h2>{{ post.title }}</h2>
-                        <p>{{ post.date | date: "%-d.%m.%Y" }}</p>
+                        <p>{{ post.date | date: "%-d.%m.%Y" }} - {{post.excerpt}}</p>
                     </div>
                 </a>
             {% endfor %}
