@@ -36,14 +36,14 @@ Jesteśmy grupą osób zainteresowanych technologią. Wszyscy chodzimy do V Lice
             Do moich zainteresowań należą: programowanie, lotnictwo wojskowe i grafika 3D. Moje mocne strony to przedmioty ścisłe, w szególności matematyka i fizyka. W wolnym czasie poza programowaniem czy modelowaniem lubię rozerwać się w jakiś gierkach. W drużynie zajmuje się programowaniem.
         </p>
         </div>
-        <img class="avatar" src="https://images.pexels.com/photos/1681010/pexels-photo-1681010.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1">
+        <img class="avatar" src="assets/avatars/kubakvs.png">
     </div>
     <div class="card card-person">
-        <img class="avatar" src="https://images.pexels.com/photos/1681010/pexels-photo-1681010.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1">
+        <img class="avatar" src="assets/avatars/adam.png">
         <div class="column">
             <h2>Adam Lasota</h2>
             <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at tellus quis lacus auctor pharetra quis a elit. Sed massa sem.
+                Interesuje się dronami, głównie FPV, modelami RC i szeroko pojętą elektroniką. W drużynie zajmuje się mechaniką, elektroniką i outreachem.
             </p>
         </div>
     </div>
@@ -51,17 +51,17 @@ Jesteśmy grupą osób zainteresowanych technologią. Wszyscy chodzimy do V Lice
         <div>
         <h2>Piotr 'Tomasz' Warchulski</h2>
         <p>
-            Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at tellus quis lacus auctor pharetra quis a elit. Sed massa sem.
+            Pasjonuję się wspinaczką, surfowaniem i nurkowaniem. W wolnym czasie lubię czytać (zarówno książki naukowe jak i sci-fi), ale również doświadczać nowych rzeczy. Uwielbiam poznawać świat, szczególnie przez pryzmat biologi i fizyki.
         </p>
         </div>
-        <img class="avatar" src="https://images.pexels.com/photos/1681010/pexels-photo-1681010.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1">
+        <img class="avatar" src="assets/avatars/piotr.png">
     </div>
     <div class="card card-person">
-        <img class="avatar" src="https://images.pexels.com/photos/1681010/pexels-photo-1681010.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1">
+        <img class="avatar" src="assets/avatars/kubab.png">
         <div class="column">
             <h2>Jakub Będkowski</h2>
             <p>
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at tellus quis lacus auctor pharetra quis a elit. Sed massa sem.
+                Moimi zainteresowaniami są fotografia, szeroko pojeta inzynieria, fizyka oraz samoloty. Interesuje się tym, jak i dzieki czemu latają od najmlodszych lat. Poza tym jeżdżę na rowerze, pływam i buduję różne konstrukcje z Lego Technic. W drużynie zajmuję się elektroniką, mechaniką i konstrukcją strukturalną. 
             </p>
         </div>
     </div>
