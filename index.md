@@ -16,7 +16,7 @@ title: "Strona główna"
         </p>
         
         <p>
-            Budowa takiej jednostki jest bardziej skomplikowana niż mogłoby się wydawać - wszystkie elementy muszą być dokładnie przemyślane i starannie wykonane. 
+            Budowa takiej jednostki jest bardziej skomplikowana niż mogłoby się wydawać - mnóstwo różnych elementów, od mechaniki, przez elektronikę, po oprogramowanie, musi być dobrze wykonanych aby misja się udała. Na szczęście, nasza drużyna posiada szeroką gamę zainteresowań i talentów, które ułatwiają pokonanie tego wyzwania.
         </p>
         
         <p>
@@ -43,6 +43,6 @@ title: "Strona główna"
     {% endif %}
     
     <section class="image-container">
-        <a href="https://picsum.photos/seed/1/600/400"><img src="https://picsum.photos/seed/1/600/400"></a>
+        <a href="/assets/media/main-1.webp"><img src="/assets/media/main-1.webp" alt="Drużyna VLO Space stojąca przed V Liceum Ogólnokształcącym."></a>
     </section>
 </aside>
