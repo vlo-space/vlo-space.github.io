@@ -11,6 +11,8 @@ body {
     font-family: 'Comfortaa', sans-serif;
 
     line-height: 1.6em;
+    
+    min-height: 100vh;
 }
 
 img {
@@ -117,6 +119,8 @@ footer {
     box-sizing: border-box;
 
     padding: 3em;
+    
+    flex-grow: 1;
 }
 
 main {
