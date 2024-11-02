@@ -8,7 +8,7 @@ title: "Strona główna"
         <h1>Witaj na naszej stronie!</h1>
 
         <p>
-            Jesteśmy grupą pasjonatów szeroko pojętej technologii, biorących udział w konkursie CanSat. 
+            Jesteśmy grupą pasjonatów szeroko pojętej technologii, biorących udział w konkursie CanSat organizowanym przez Europejską Agencję Kosmiczną. 
         </p>
         
         <p>
