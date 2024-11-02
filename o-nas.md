@@ -18,10 +18,10 @@ Jesteśmy grupą osób zainteresowanych technologią. Wszyscy chodzimy do V Lice
                 Pasjonuję się szeroko pojętymi naukami przyrodniczymi i ścisłymi, w szczególności biologią, matematyką, chemią oraz fizyką. Jestem liderem drużyny, poza tym zajmuję się mechaniką, oraz kwestiami finansowymi.
             </p>
         </div>
-        <img class="avatar" src="assets/avatars/jan.png">
+        <img class="avatar" src="assets/avatars/jan.png" alt="Jan Stolarczyk">
     </div>
     <div class="card card-person">
-        <img class="avatar" src="assets/avatars/kamil.png">
+        <img class="avatar" src="assets/avatars/kamil.png" alt="Kamil Kaczyński">
         <div class="column">
             <h2>Kamil Kaczyński</h2>
             <p>
@@ -36,10 +36,10 @@ Jesteśmy grupą osób zainteresowanych technologią. Wszyscy chodzimy do V Lice
             Do moich zainteresowań należą: programowanie, lotnictwo wojskowe i grafika 3D. Moje mocne strony to przedmioty ścisłe, w szególności matematyka i fizyka. W wolnym czasie poza programowaniem czy modelowaniem lubię rozerwać się w jakiś gierkach. W drużynie zajmuje się programowaniem.
         </p>
         </div>
-        <img class="avatar" src="assets/avatars/kubakvs.png">
+        <img class="avatar" src="assets/avatars/kubakvs.png" alt="Jakub Kononowicz vel Siemionowicz">
     </div>
     <div class="card card-person">
-        <img class="avatar" src="assets/avatars/adam.png">
+        <img class="avatar" src="assets/avatars/adam.png" alt="Adam Lasota">
         <div class="column">
             <h2>Adam Lasota</h2>
             <p>
@@ -54,10 +54,10 @@ Jesteśmy grupą osób zainteresowanych technologią. Wszyscy chodzimy do V Lice
             Pasjonuję się wspinaczką, surfowaniem i nurkowaniem. W wolnym czasie lubię czytać (zarówno książki naukowe jak i sci-fi), ale również doświadczać nowych rzeczy. Uwielbiam poznawać świat, szczególnie przez pryzmat biologi i fizyki.
         </p>
         </div>
-        <img class="avatar" src="assets/avatars/piotr.png">
+        <img class="avatar" src="assets/avatars/piotr.png" alt="Piotr Warchulski">
     </div>
     <div class="card card-person">
-        <img class="avatar" src="assets/avatars/kubab.png">
+        <img class="avatar" src="assets/avatars/kubab.png" alt="Jakub Będkowski">
         <div class="column">
             <h2>Jakub Będkowski</h2>
             <p>
