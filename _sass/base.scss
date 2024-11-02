@@ -275,6 +275,7 @@ p {
 
     aside {
         max-width: 50em;
+        align-items: center;
     }
 
     aside > .image-container {
@@ -282,6 +283,7 @@ p {
         align-items: center;
         width: 100%;
         overflow-x: scroll;
+        justify-content: center;
     }
 }
 
