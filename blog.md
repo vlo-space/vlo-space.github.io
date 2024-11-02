@@ -1,6 +1,6 @@
 ---
 layout: base
-title: "Strona główna"
+title: "Blog"
 ---
 
 <main>
