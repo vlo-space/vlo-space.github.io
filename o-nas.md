@@ -66,3 +66,5 @@ Jesteśmy grupą osób zainteresowanych technologią. Wszyscy chodzimy do V Lice
         </div>
     </div>
 </div>
+
+Nasza drużyna pracuje pod kierunkiem p. dr Beaty Zimnickiej, która uczy nas fizyki w V Liceum Ogólnokształcącym.
