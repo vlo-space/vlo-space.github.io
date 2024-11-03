@@ -11,4 +11,4 @@ Pierwszy etap konkursu był wyłącznie teoretyczny i skupiał się na założen
 
 Podstawowa część - mikro komputer sterujący całą jednostką - jest zapewniona przez organizatorów konkursu - Europejską Agencję Kosmiczną. Resztę jednak musimy zorganizować sami. Na szczęście, istnieje wiele sposobów uzyskania pozostałych potrzebnych nam części. Dzięki technologiom takim jak druk 3D możemy zaprojektować pewne elementy w komputerze, a następnie wykonać je z plastiku.
 
-Przed nami jeszcze dużo pracy, lecz nie jest nam ona straszna. Jest do dla nas wyzwanie, które z chęcią podejmujemy.
+Przed nami jeszcze dużo pracy, lecz nie jest nam ona straszna. Jest to dla nas wyzwanie, które z chęcią podejmujemy.
