@@ -4,6 +4,15 @@ layout: base
 
 <main>
     <section>
+        <h1>{{page.title}}</h1>
+        <span class="post-meta">
+            <span class="mdi--clock-outline"></span>
+            {{ page.date | date: "%-d.%m.%Y" }}
+            {% if page.author %}
+                <span class="mdi--user"></span>
+                {{page.author}}
+            {% endif %}
+        </span>
         {{content}}
     </section>
 </main>

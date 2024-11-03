@@ -1,9 +1,8 @@
 ---
 title: "Jesteśmy w drugim etapie!"
 excerpt: "Jesteśmy jednym z 25 zespołów w całej Polsce, którym udało się dostać do drugiego etapu..."
+author: "Kamil Kaczyński"
 ---
-
-# Jesteśmy w drugim etapie!
 
 Jesteśmy jednym z 25 zespołów w całej Polsce, którym udało się dostać do drugiego etapu konkusu CanSat. Choć bez wątpienia są powody do świętowania, jest to dopiero początek naszej przygody, a przed nami długa droga.
 
