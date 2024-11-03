@@ -25,7 +25,7 @@ Jesteśmy grupą osób zainteresowanych technologią. Wszyscy chodzimy do V Lice
         <div class="column">
             <h2>Kamil Kaczyński</h2>
             <p>
-                Na co dzień jestem pasjonatem programowania i muzyki - tworzę swoje własne gry i utwory, oraz uczę się gry na puzonie w PSM. W naszej drużynie zajmuje się softwarem, designem graficzym oraz stroną internetową.
+                Na co dzień jestem pasjonatem programowania i muzyki - tworzę swoje własne gry i utwory, oraz uczę się gry na puzonie w PSM. W naszej drużynie zarządzam softwarem, designem graficzym oraz stroną internetową. Współtworzę budżet oraz piszę teksty dotyczące naszego projektu.
             </p>
         </div>
     </div>
