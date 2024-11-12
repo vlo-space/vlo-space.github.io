@@ -17,6 +17,7 @@ body {
 
 img {
     pointer-events: none;
+    display: block;
 }
 
 body > * {
@@ -190,6 +191,13 @@ a:hover > .card {
     gap: 2em;
 }
 
+.card-vertical {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    gap: 2em;
+}
+
 .card-person {
     display: flex;
     align-items: center;
@@ -275,6 +283,21 @@ p {
 
 .main-container span.post-meta span {
     translate: 0 -0.03em;
+}
+
+#sponsors {
+	background-color: #333f62;
+	color: white;
+	padding-top: 2em;
+	padding-bottom: 2em;
+}
+
+#sponsors > div {
+	display: flex;
+	flex-wrap: wrap;
+	gap: 3em;
+	align-items: center;
+	justify-content: center;
 }
 
 @media only screen and (max-width: 77em) {
