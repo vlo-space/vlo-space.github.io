@@ -1,6 +1,5 @@
 ---
 title: "Współpraca z firmą Botland"
-excerpt: "Z dużą przyjemnością ogłaszamy, że nawiązaliśmy współpracę ze sklepem elektronicznym..."
 author: "Kamil Kaczyński"
 ---
 

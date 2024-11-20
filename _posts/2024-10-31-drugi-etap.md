@@ -1,6 +1,5 @@
 ---
 title: "Jesteśmy w drugim etapie!"
-excerpt: "Jesteśmy jednym z 25 zespołów w całej Polsce, którym udało się dostać do drugiego etapu..."
 author: "Kamil Kaczyński"
 ---
 
