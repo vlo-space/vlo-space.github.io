@@ -9,9 +9,10 @@ title: "Blog"
         <div class="card-container">
             {% for post in site.posts limit:10 %}
                 <a href="{{ post.url }}">
-                    <div class="card">
+                    <div class="card card-post">
                         <h2>{{ post.title }}</h2>
-                        <p>{{ post.date | date: "%-d.%m.%Y" }} - {{post.excerpt}}</p>
+                        <span class="meta">{{ post.date | date: "%-d.%m.%Y" }}</span>
+                        {{post.excerpt}}
                     </div>
                 </a>
             {% endfor %}

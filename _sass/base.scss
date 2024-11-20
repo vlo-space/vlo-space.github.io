@@ -285,6 +285,22 @@ p {
     translate: 0 -0.03em;
 }
 
+.card-post {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5em;
+    padding-top: 2em;
+    padding-bottom: 2em;
+}
+
+.card-post * {
+    margin: 0;
+}
+
+.card-post > .meta {
+    color: gray;
+}
+
 #sponsors {
 	background-color: #333f62;
 	color: white;
