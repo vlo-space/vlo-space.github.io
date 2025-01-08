@@ -238,35 +238,14 @@ img.medium-image {
     background-color: rgb(240, 240, 240);
     box-sizing: border-box;
     padding: 1em;
-   
     padding-left: 1.5em;
     padding-right: 1.5em;
 }
 
-.pre-footer-content {
-    text-align: left;
-}
-
-#pre-footer-top {
-    display: flex;
-    flex-direction: row;
-    gap: 1em;
-    padding-bottom: 1em;
-}
-
-#pre-footer-bottom {
-    display: flex;
-    flex-direction: row;
-    gap: 1em;
-    padding-bottom: 1em;
-}
-
 .link-buttons-container {
-   
     display: flex;
     gap: 1em;
-    align-items: center;
-    
+    margin-bottom: 1em;
 }
 
 .link-buttons-container > a {
@@ -274,7 +253,6 @@ img.medium-image {
     border: 1px solid gray;
     border-radius: 3em;
     width: 7em;
-    height: fit-content;
     text-align: center;
 
     color: black;
@@ -376,26 +354,6 @@ p {
     aside {
         max-width: 50em;
         width: 100%;
-    }
-
-    .pre-footer-content{
-        justify-self: center;
-        justify-content: center;
-        width: 100%;
-        text-align: center;
-    }
-
-    #pre-footer-top{
-        flex-direction: column;
-        align-items: center;
-        text-align: center;
-    }
-
-    #pre-footer-bottom{
-        
-        flex-direction: column-reverse;
-        align-items: center;
-        
     }
 
     .link-buttons-container {
