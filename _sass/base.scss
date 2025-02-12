@@ -339,8 +339,21 @@ p {
 	justify-content: center;
 }
 
+#sponsors .sponsor-text-wrapper {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	gap: 0.8em;
+	color: #fff9;
+	text-decoration: none;
+}
+
+#sponsors img.major-sponsor {
+    max-width: 14em;
+}
+
 #sponsors img {
-    max-width: 16em;
+    max-width: 9em;
 }
 
 @media only screen and (max-width: 77em) {
