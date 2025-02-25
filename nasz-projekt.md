@@ -12,7 +12,7 @@ W ramach konkursu CanSat oraganizowanego przez Europejską Agencję Kosmiczną b
         <p>
 Sonda ma mieć wielkość zwykłej puszki po napoju, ale kryć w sobie wiele technologii przydatnych w pracy badawczej. Będą to:
 <ul>
-  <li>system bezpiecznego lądowania, składający się z spadochronu i poduszki powietrznej</li>
+  <li>system bezpiecznego lądowania, składający się z spadochronu</li>
   <li>system stabilizacji po wylądowaniu, składający się z silniczków i stojaka</li>
   <li>system zapisu i przesyłu danych</li>
   <li>system rejestrujący obraz</li>
