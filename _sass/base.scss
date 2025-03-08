@@ -371,9 +371,16 @@ p {
     aside > .image-container {
         flex-direction: row;
         align-items: center;
-        width: 100%;
+        width: 100vw;
         overflow-x: scroll;
-        justify-content: center;
+    }
+
+    aside > .image-container > :first-child {
+        margin-left: 2em;
+    }
+
+    aside > .image-container > :last-child {
+        margin-right: 2em;
     }
 }
 
