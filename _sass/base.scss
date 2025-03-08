@@ -375,6 +375,10 @@ p {
         overflow-x: scroll;
     }
 
+    aside > .image-container:has(> :only-child) {
+        justify-content: center;
+    }
+
     aside > .image-container > :first-child {
         margin-left: 2em;
     }
