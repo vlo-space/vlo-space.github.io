@@ -303,21 +303,39 @@ p {
 
 .card-post {
     display: flex;
-    flex-direction: column;
-    gap: 0.5em;
+    gap: 1em;
+    flex-direction: row;
+    flex-grow: 0;
+
     padding-top: 2em;
     padding-bottom: 2em;
 }
 
-.card-post * {
+.card-post > img {
+    width: 16em;
+
+    border-radius: 0.8em;
+    background-color: rgba(0, 0, 0, 0.089);
+
+    aspect-ratio: 4/3;
+    object-fit: contain;
+}
+
+.post-info {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5em;
+}
+
+.post-info * {
     margin: 0;
 }
 
-.card-post > .meta {
+.post-info > .meta {
     color: gray;
 }
 
-.card-post > p {
+.post-info > p {
     mask-image: linear-gradient(#fff, rgba(255, 255, 255, 0.18));
 }
 
@@ -456,6 +474,15 @@ p {
 
     .card-person:nth-child(odd) {
         flex-direction: column-reverse;
+    }
+
+    .card-post {
+        flex-direction: column;
+    }
+
+    .card-post > img {
+        width: 100%;
+        height: 16em;
     }
 }
 
