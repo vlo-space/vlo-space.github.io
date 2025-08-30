@@ -243,18 +243,14 @@ img.medium-image {
     padding-right: 1.5em;
 }
 
-.pre-footer-content {
-    text-align: left;
-}
-
-#pre-footer-top {
+.pre-footer .pre-footer-content {
     display: flex;
-    flex-direction: row;
+    flex-direction: column;
+    justify-content: center;
     gap: 1em;
-    padding-bottom: 1em;
 }
 
-#pre-footer-bottom {
+.pre-footer .pre-footer-row {
     display: flex;
     flex-direction: row;
     gap: 1em;
