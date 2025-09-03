@@ -3,7 +3,7 @@ layout: base
 title: "Strona główna"
 ---
 
-<main>
+<article>
     <section>
         <h1>Witaj na naszej stronie!</h1>
 
@@ -28,7 +28,7 @@ title: "Strona główna"
             </div>
         </p>
     </section>
-</main>
+</article>
 
 <aside>
     {% if site.posts.size > 0 %}

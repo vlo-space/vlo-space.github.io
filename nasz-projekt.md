@@ -3,7 +3,7 @@ layout: base
 title: "Nasz projekt"
 ---
 
-<main>
+<article>
     <section>
         <h1>Nasz projekt</h1>
         <p>
@@ -25,7 +25,7 @@ Nasze urządzenie ma bezpiecznie wylądować na ziemi po zrzuceniu z rakiety na 
 Nasz projekt jest jednostką badawczą służącą modelowaniu urządzenia, które w projektach naukowych mogłoby służyć sprawdzaniu rozchodzenia się fal sejsmicznych w warunkach istniejących na powierzchni innej planety.
         </p>
     </section>
-</main>
+</article>
 <aside>
     <section class="image-container">
         <a href="/assets/media/projekt-render-1.webp"><img src="/assets/media/projekt-render-1.webp" alt="Render komputerowy wstępnego projektu sondy."></a>

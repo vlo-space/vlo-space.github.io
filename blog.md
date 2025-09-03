@@ -3,7 +3,7 @@ layout: base
 title: "Blog"
 ---
 
-<main>
+<article>
     <section>
         <h2>Najnowsze posty na naszym blogu:</h2>
         <div class="card-container">
@@ -33,5 +33,5 @@ title: "Blog"
             {% endfor %}
         </div>
     </section>
-</main>
+</article>
 
