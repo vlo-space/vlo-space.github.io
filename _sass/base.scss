@@ -165,6 +165,31 @@ aside > .image-container img {
     border-radius: 1em;
 }
 
+#main-content-button {
+    position: absolute;
+
+    background-color: white;
+    border: 1px solid gray;
+    color: black;
+
+    padding: .7em 1.5em;
+    border-radius: 3em;
+    width: auto;
+    z-index: 1000;
+
+    top: 2em;
+    left: 2em;
+
+    transform: translateY(-200%);
+
+    transition: 0.1s;
+}
+
+#main-content-button:focus-within {
+    left: 2em;
+    transform: translateY(0%);
+}
+
 .card {
     background-color: rgb(240, 240, 240);
     box-sizing: border-box;
