@@ -44,7 +44,7 @@ body {
 h1 {
     line-height: 1.4em;
 
-    /* https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/Heading_Elements#specifying_a_uniform_font_size_for_h1 */
+    // https://developer.mozilla.org/en-US/docs/Web/HTML/Reference/Elements/Heading_Elements#specifying_a_uniform_font_size_for_h1
     margin-block: 0.67em;
     font-size: 2em;
 }
@@ -158,8 +158,6 @@ article, aside {
     gap: 2em;
 
     justify-content: baseline;
-
-    background-color: white;
 }
 
 aside > .image-container {
@@ -199,6 +197,12 @@ aside > .image-container img {
 #main-content-button:focus-within {
     left: 2em;
     transform: translateY(0%);
+}
+
+.v-separator {
+    background-color: rgba(0, 0, 0, 0.18);
+    width: 1px;
+    max-width: 1px;
 }
 
 .card {
@@ -285,23 +289,7 @@ img.medium-image {
 .pre-footer {
     background-color: var(--color-card);
     box-sizing: border-box;
-    padding: 1em;
-    padding-left: 1.5em;
-    padding-right: 1.5em;
-}
-
-.pre-footer .pre-footer-content {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    gap: 1em;
-}
-
-.pre-footer .pre-footer-row {
-    display: flex;
-    flex-direction: row;
-    gap: 1em;
-    padding-bottom: 1em;
+    padding: 2em 1.5em;
 }
 
 .link-buttons-container {
@@ -403,6 +391,51 @@ footer {
 
 footer > :not(:last-child) {
     box-shadow: 0 -0.1rem .6rem var(--color-shadow-light);
+}
+
+footer > .you-can-help {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-top: 7em;
+    margin-top: 2em;
+}
+
+footer > .you-can-help > img {
+    width: 10em;
+    height: 10em;
+    position: absolute;
+    transform: translateY(-10em);
+}
+
+footer > .you-can-help > div {
+    display: flex;
+    flex-direction: row;
+    gap: 1em;
+}
+
+footer > .you-can-help > div > div:not(.v-separator) {
+    flex: 1 1 0;
+    display: flex;
+    flex-direction: column;
+
+    max-width: 20em;
+    gap: 1em;
+
+    padding: 1em 0;
+}
+
+footer > .you-can-help .link-buttons-container {
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+footer > .you-can-help > div > :first-child {
+    text-align: right;
+}
+
+footer > .you-can-help > div > :only-child {
+    text-align: center;
 }
 
 footer > :last-child {
