@@ -495,6 +495,10 @@ footer > :last-child {
         overflow-x: scroll;
     }
 
+    aside > .image-container > * {
+        padding: 0.5em 0;
+    }
+
     aside > .image-container:has(> :only-child) {
         justify-content: center;
     }
