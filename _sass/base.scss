@@ -156,8 +156,6 @@ article, aside {
     display: flex;
     flex-direction: column;
     gap: 2em;
-
-    justify-content: baseline;
 }
 
 aside > .image-container {
@@ -440,19 +438,28 @@ footer > .you-can-help > div > :only-child {
 
 footer > :last-child {
     display: flex;
-    align-items: center;
+    flex-direction: column;
+    justify-content: end;
+    gap: 0.5em;
 
     z-index: 100;
     position: sticky;
     top: 0;
 
-    min-height: 4em;
-    padding: 1em;
+    min-height: 13em;
+    padding: 1.5em 3em;
 
     box-sizing: border-box;
 
     color: white;
     background-color: var(--color-dark-1);
+    background-image: url('footer.svg');
+    background-repeat: no-repeat;
+    background-position: bottom 1.5em right 3em;
+}
+
+footer > :last-child > a {
+    color: lightblue;
 }
 
 #sponsors {
