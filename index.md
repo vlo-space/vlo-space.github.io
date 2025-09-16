@@ -5,6 +5,8 @@ title: "Strona główna"
 
 <article>
     <section>
+        <strong>W roku szkolnym 2025/26 wracamy do akcji!</strong> <a href="{% link _posts/2025-09-16-vlo-space-wraca-do-akcji.md %}">Przeczytaj naszego bloga</a>
+
         <h1>Witaj na naszej stronie!</h1>
 
         <p>
