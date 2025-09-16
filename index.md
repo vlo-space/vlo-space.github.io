@@ -12,7 +12,7 @@ title: "Strona główna"
         </p>
         
         <p>
-            Budujemy urządzenie służące wykrywaniu i badaniu fal sejsmicznych. Będzie ono wielkości puszki po napoju. W trakcie finału konkursu nasza puszka zostanie wyrzucona z rakiety na wysokości 2,5 km.
+            Budujemy latającą sondę z systemem radiowej nawigacji bez użycia GPS. Będzie ona wielkości puszki po napoju. W trakcie finału konkursu nasze urządzenie zostanie wyrzucone z rakiety na wysokości 2,5 km.
         </p>
         
         <p>
@@ -43,6 +43,6 @@ title: "Strona główna"
     {% endif %}
     
     <section class="image-container">
-        <a href="/assets/media/main-1.webp"><img src="/assets/media/main-1.webp" alt="Drużyna VLO Space stojąca przed V Liceum Ogólnokształcącym."></a>
+        <a href="/assets/media/post/vlo-space-wraca-do-akcji/druzyna.jpg"><img src="/assets/media/post/vlo-space-wraca-do-akcji/druzyna.jpg" alt="Drużyna VLO Space stojąca przed V Liceum Ogólnokształcącym."></a>
     </section>
 </aside>
