@@ -3,7 +3,7 @@ title: "VLO Space wraca do akcji!"
 author: "Kamil Kaczyński"
 media:
 - {url: "druzyna.jpg", title: "Zdjęcie składu drużyny VLO Space w konkursie CanSat 2025/26."}
-- {url: "druzyna-opis.jpg", title: "Zdjęcie składu drużyny VLO Space w konkursie CanSat 2025/26."}
+- {url: "druzyna-opis.jpg", title: "Zdjęcie składu drużyny VLO Space w konkursie CanSat 2025/26. Od lewej: Oliwia Fink, Kamil Kaczyński, Adam Lasota, Leon Sułkowski, Jakub Kononowicz vel Siemionowicz, Jan Stolarczyk"}
 ---
 
 Jak już zapowiadaliśmy na naszych social mediach, wraz z nową edycją konkursu CanSat Europejskiej Agencji Kosmicznej, drużyna VLO Space wraca do akcji!

@@ -43,6 +43,6 @@ title: "Strona główna"
     {% endif %}
     
     <section class="image-container">
-        <a href="/assets/media/post/vlo-space-wraca-do-akcji/druzyna.jpg"><img src="/assets/media/post/vlo-space-wraca-do-akcji/druzyna.jpg" alt="Drużyna VLO Space stojąca przed V Liceum Ogólnokształcącym."></a>
+        <a href="/assets/media/post/vlo-space-wraca-do-akcji/druzyna.jpg"><img src="/assets/media/post/vlo-space-wraca-do-akcji/druzyna.jpg" alt="Drużyna VLO Space 2025/26 stojąca przed rollupem zespołu."></a>
     </section>
 </aside>
