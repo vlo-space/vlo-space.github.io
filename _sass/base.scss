@@ -264,6 +264,33 @@ a:hover > .card {
 	border-radius: 10em;
 }
 
+.card-person > div {
+    display: flex;
+    flex-direction: column;
+    gap: 1em;
+    padding: 1.5em 0;
+}
+
+.card-person > div * {
+    margin: 0;
+}
+
+.tag-list {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 0.5em;
+}
+
+.tag-list > * {
+    padding: 0.2em 0.5em;
+    border-radius: 1em;
+    background-color: lightblue;
+}
+
+.tag-list > .tag-strong {
+    background-color: #b7b7e1;
+}
+
 img.medium-image {
     object-fit: contain;
     aspect-ratio: 1/1;

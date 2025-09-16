@@ -7,41 +7,60 @@ title: "O nas"
 
 Jesteśmy grupą osób zainteresowanych technologią. Wszyscy chodzimy do V Liceum Ogólnokształcącego im. Andrzeja Struga w Gliwicach. Potrzegamy konkurs CanSat jako okazję by sprawdzić swoje umiejętności, nauczyć się czegoś nowego, a przede wszystkim - stworzyć coś fajnego! 
 
-
 ### Oto my:
 
 <div class="card-container">
     <div class="card card-person">
         <div>
             <h2>Jan Stolarczyk</h2>
+            <div class="tag-list">
+                <span class="tag-strong">Elektronika</span>
+                <span>Mechanika</span>
+                <span>Outreach</span>
+            </div>
             <p>
-                Pasjonuję się szeroko pojętymi naukami przyrodniczymi i ścisłymi, w szczególności biologią, matematyką, chemią oraz fizyką. Jestem liderem drużyny, poza tym zajmuję się mechaniką, oraz kwestiami finansowymi.
+                Pasjonuję się szeroko pojętymi naukami przyrodniczymi i ścisłymi, w szczególności biologią, matematyką, chemią oraz fizyką. W drużynie zajmuję się mechaniką oraz kwestiami finansowymi.
             </p>
         </div>
         <img class="avatar" src="assets/avatars/jan.png" alt="Jan Stolarczyk">
     </div>
     <div class="card card-person">
         <img class="avatar" src="assets/avatars/kamil.png" alt="Kamil Kaczyński">
-        <div class="column">
+        <div>
             <h2>Kamil Kaczyński</h2>
+            <div class="tag-list">
+                <span class="tag-strong">Software i strona</span>
+                <span>Design graficzny</span>
+                <span>Warsztaty</span>
+                <span>Pisanie</span>
+            </div>
             <p>
-                Na co dzień jestem pasjonatem programowania i muzyki - tworzę swoje własne gry i utwory, oraz uczę się gry na puzonie w PSM. W naszej drużynie zarządzam softwarem, designem graficzym oraz stroną internetową. Współtworzę budżet oraz piszę teksty dotyczące naszego projektu.
+                Na co dzień jestem pasjonatem programowania i muzyki - tworzę swoje własne gry i utwory, oraz uczę się gry na puzonie w PSM. W naszej drużynie zarządzam softwarem, designem graficzym oraz stroną internetową. Piszę również teksty dotyczące naszego projektu.
             </p>
         </div>
     </div>
     <div class="card card-person">
         <div>
-        <h2>Jakub Kononowicz vel Siemionowicz</h2>
-        <p>
-            Do moich zainteresowań należą: programowanie, lotnictwo wojskowe i grafika 3D. Moje mocne strony to przedmioty ścisłe, w szególności matematyka i fizyka. W wolnym czasie poza programowaniem czy modelowaniem lubię rozerwać się w jakiś gierkach. W drużynie zajmuje się programowaniem.
-        </p>
+            <h2>Jakub Kononowicz vel Siemionowicz</h2>
+            <div class="tag-list">
+                <span class="tag-strong">Software</span>
+                <span>Research</span>
+            </div>
+            <p>
+                Do moich zainteresowań należą: programowanie, lotnictwo wojskowe i grafika 3D. Moje mocne strony to przedmioty ścisłe, w szególności matematyka i fizyka. W wolnym czasie, poza programowaniem czy modelowaniem, lubię rozerwać się w jakiś gierkach. W drużynie zajmuje się programowaniem.
+            </p>
         </div>
         <img class="avatar" src="assets/avatars/kubakvs.png" alt="Jakub Kononowicz vel Siemionowicz">
     </div>
     <div class="card card-person">
         <img class="avatar" src="assets/avatars/adam.png" alt="Adam Lasota">
-        <div class="column">
+        <div>
             <h2>Adam Lasota</h2>
+            <div class="tag-list">
+                <span class="tag-strong">Social media</span>
+                <span>Mechanika</span>
+                <span>Operacja dronów</span>
+            </div>
             <p>
                 Interesuje się dronami, głównie FPV, modelami RC i szeroko pojętą elektroniką. W drużynie zajmuje się mechaniką, elektroniką i outreachem.
             </p>
@@ -49,19 +68,27 @@ Jesteśmy grupą osób zainteresowanych technologią. Wszyscy chodzimy do V Lice
     </div>
     <div class="card card-person">
         <div>
-        <h2>Piotr 'Tomasz' Warchulski</h2>
-        <p>
-            Pasjonuję się wspinaczką, surfowaniem i nurkowaniem. W wolnym czasie lubię czytać (zarówno książki naukowe jak i sci-fi), ale również doświadczać nowych rzeczy. Uwielbiam poznawać świat, szczególnie przez pryzmat biologi i fizyki.
-        </p>
+            <h2>Leon Sułkowski</h2>
+            <div class="tag-list">
+                <span class="tag-strong">Dokumentacja działań</span>
+                <span>Research</span>
+            </div>
+            <p>
+                Interesuję się różnymi dziedzinami nauk ścisłych, a w szczególności krystalografią i powiązaną z nią fizyką i chemią. W drużynie zajmuję się promocją, a także rozwojem koncepcji i pomysłów projektowych.
+            </p>
         </div>
-        <img class="avatar" src="assets/avatars/piotr.png" alt="Piotr Warchulski">
+        <img class="avatar" src="assets/avatars/leon.png" alt="Leon Sułkowski">
     </div>
     <div class="card card-person">
-        <img class="avatar" src="assets/avatars/kubab.png" alt="Jakub Będkowski">
-        <div class="column">
-            <h2>Jakub Będkowski</h2>
+        <img class="avatar" src="assets/avatars/oliwia.png" alt="Oliwia Fink">
+        <div>
+            <h2>Oliwia Fink</h2>
+            <div class="tag-list">
+                <span class="tag-strong">Dokumentacja działań</span>
+                <span>Korekcja tekstu</span>
+            </div>
             <p>
-                Moimi zainteresowaniami są fotografia, szeroko pojeta inzynieria, fizyka oraz samoloty. Interesuje się tym, jak i dzieki czemu latają od najmlodszych lat. Poza tym jeżdżę na rowerze, pływam i buduję różne konstrukcje z Lego Technic. W drużynie zajmuję się elektroniką, mechaniką i konstrukcją strukturalną. 
+                Pasjonuję się literaturą oraz historią i kulturą starożytnej Grecji. W wolnym czasie słucham muzyki, sięgam po literaturę piękną albo gram w gry komputerowe.
             </p>
         </div>
     </div>
