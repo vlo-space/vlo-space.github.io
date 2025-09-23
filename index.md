@@ -5,9 +5,9 @@ title: "Strona główna"
 
 <article>
     <section>
-        <strong>W roku szkolnym 2025/26 wracamy do akcji!</strong> <a href="{% link _posts/2025-09-16-vlo-space-wraca-do-akcji.md %}">Przeczytaj naszego bloga</a>
-
         <h1>Witaj na naszej stronie!</h1>
+
+        <iframe class="floating-left" src="https://www.youtube.com/embed/QObaEE2P3_I" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 
         <p>
             Jesteśmy grupą pasjonatów szeroko pojętej technologii, biorących udział w konkursie CanSat organizowanym przez Europejską Agencję Kosmiczną. 
