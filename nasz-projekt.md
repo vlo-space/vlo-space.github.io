@@ -29,10 +29,8 @@ Nasz projekt jest jednostką służącą modelowaniu urządzenia, które w proje
         </p>
     </section>
 </article>
-{% comment %}
 <aside>
     <section class="image-container">
-        <a href="/assets/media/projekt-render-1.webp"><img src="/assets/media/projekt-render-1.webp" alt="Render komputerowy wstępnego projektu sondy."></a>
+        <a href="/assets/media/projekt_render_2.webp"><img src="/assets/media/projekt_render_2.webp" alt="Render komputerowy wstępnego projektu sondy."></a>
     </section>
 </aside>
-{% endcomment %}
