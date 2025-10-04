@@ -5,7 +5,7 @@ title: "O nas"
 
 # Kim jesteśmy?
 
-Jesteśmy grupą osób zainteresowanych technologią. Wszyscy chodzimy do V Liceum Ogólnokształcącego im. Andrzeja Struga w Gliwicach. Potrzegamy konkurs CanSat jako okazję by sprawdzić swoje umiejętności, nauczyć się czegoś nowego, a przede wszystkim - stworzyć coś fajnego! 
+Jesteśmy grupą osób zainteresowanych technologią. Wszyscy chodzimy do V Liceum Ogólnokształcącego im. Andrzeja Struga w Gliwicach. Postrzegamy konkurs CanSat jako okazję by sprawdzić swoje umiejętności, nauczyć się czegoś nowego, a przede wszystkim - stworzyć coś fajnego!
 
 ### Oto my:
 
