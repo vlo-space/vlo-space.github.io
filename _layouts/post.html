@@ -2,6 +2,8 @@
 layout: base
 ---
 
+{% capture media_url %}/assets/media/post/{{ page.slug }}/{% endcapture %}
+
 <article>
     <section>
         <h1>{{page.title}}</h1>
@@ -28,7 +30,6 @@ layout: base
     {% if page.media %}
         <section class="image-container">
             {% for media in page.media %}
-                {% capture media_url %}/assets/media/post/{{ page.slug }}/{% endcapture %}
                 {% if media.url %}
                     {% capture media_url %}{{ media_url }}{{ media.url }}{% endcapture %}
                 {% else %}

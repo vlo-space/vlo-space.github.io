@@ -168,6 +168,17 @@ aside > .image-container img {
     width: 20em;
 }
 
+article div.container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+
+article div.container > * {
+    max-width: 100%;
+    max-height: 12em;
+}
+
 .image-container img {
     border-radius: 1em;
 }

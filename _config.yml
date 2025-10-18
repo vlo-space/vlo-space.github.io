@@ -13,6 +13,7 @@ defaults:
             type: "posts"
         values:
             layout: post
+            asset_base: "/assets/media/post/"
         
 sass:
     style: compressed
