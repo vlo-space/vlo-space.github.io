@@ -2,7 +2,7 @@
 layout: base
 ---
 
-{% capture media_url %}/assets/media/post/{{ page.slug }}/{% endcapture %}
+{% capture base_media_url %}/assets/media/post/{{ page.slug }}/{% endcapture %}
 
 <article>
     <section>
@@ -31,9 +31,9 @@ layout: base
         <section class="image-container">
             {% for media in page.media %}
                 {% if media.url %}
-                    {% capture media_url %}{{ media_url }}{{ media.url }}{% endcapture %}
+                    {% capture media_url %}{{ base_media_url }}{{ media.url }}{% endcapture %}
                 {% else %}
-                    {% capture media_url %}{{ media_url }}{{ media }}{% endcapture %}
+                    {% capture media_url %}{{ base_media_url }}{{ media }}{% endcapture %}
                 {% endif %}
             
                 <a href="{{ media_url }}">
