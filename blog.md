@@ -7,7 +7,7 @@ title: "Blog"
     <section>
         <h2>Najnowsze posty na naszym blogu:</h2>
         <div class="card-container">
-            {% for post in site.posts limit:10 %}
+            {% for post in site.posts %}
                 <a href="{{ post.url }}">
                     <div class="card card-post">
                         <div class="post-info">
