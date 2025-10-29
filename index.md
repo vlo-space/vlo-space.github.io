@@ -35,12 +35,21 @@ title: "Strona główna"
 <aside>
     {% if site.posts.size > 0 %}
     <section>
-        <h2>Sprawdź naszego bloga:</h2>
-        <ul>
-        {% for post in site.posts limit:10 %}
-            <li><a href="{{ post.url }}">{{ post.title }}</a></li>
+        <h2>Najnowszy wpis na blogu:</h2>
+        {% for post in site.posts limit:1 %}
+            <a href="{{ post.url }}">
+                <div class="card card-post">
+                    <div class="post-info">
+                        <h2>{{ post.title }}</h2>
+                        <span class="meta">{{ post.date | date: "%-d.%m.%Y" }}</span>
+                        {{post.excerpt}}
+                    </div>
+                </div>
+            </a>
         {% endfor %}
-        </ul>
+        <p class="link-buttons-container">
+            <a href="{% link blog.md %}">Więcej postów z naszego bloga</a>
+        </p>
     </section>
     {% endif %}
     
