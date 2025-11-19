@@ -554,26 +554,48 @@ footer > :last-child > a {
 	justify-content: center;
 
 	gap: 3em;
-    padding: 1em;
+    padding: 1.5em 2em;
     border-radius: 1em;
 
     background-color: var(--color-dark-2);
 }
 
-#sponsors > div.sponsors-large img {
-    max-width: 14em;
+#sponsors > div a {
+    width: 6em;
+    height: 6em;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 #sponsors > div img {
-    max-width: 8em;
+    max-width: 6em;
+    max-height: 6em;
+}
+
+#sponsors > div.sponsors-small a {
+    width: 4em;
+    height: 4em;
 }
 
 #sponsors > div.sponsors-small img {
-    max-width: 6.5em;
+    max-width: 4em;
+    max-height: 4em;
+}
+
+#sponsors > div.sponsors-large a {
+    width: 8em;
+    height: 8em;
+}
+
+#sponsors > div.sponsors-large img {
+    max-width: 8em;
+    max-height: 8em;
 }
 
 #sponsors a:has(img):hover {
-    scale: 1.02;
+    scale: 1.08;
 }
 
 //
