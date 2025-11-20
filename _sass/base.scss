@@ -422,7 +422,7 @@ main span.post-meta span {
     background-color: rgba(0, 0, 0, 0.089);
 
     aspect-ratio: 4/3;
-    object-fit: contain;
+    object-fit: cover;
 }
 
 .post-info {
@@ -433,6 +433,10 @@ main span.post-meta span {
 
 .post-info * {
     margin: 0;
+}
+
+.post-info > h2 {
+    line-height: 1.2em;
 }
 
 .post-info > .meta {
