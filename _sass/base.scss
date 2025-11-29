@@ -372,11 +372,15 @@ a:has(> img):hover {
     filter: drop-shadow(0 .2rem .6rem var(--color-shadow-dark));
 }
 
-.floating-left, .floating-right {
+iframe[src^="https://www.youtube.com"].floating-left, iframe[src^="https://www.youtube.com"].floating-right {
 	width: min(24em, 100%);
-    aspect-ratio: 4/3;
 	border-radius: 1em;
 	margin-bottom: 1.4em;
+}
+
+img.floating-left, img.floating-right {
+    border-radius: 1em;
+    margin-bottom: 2em;
 }
 
 .floating-left {
@@ -387,6 +391,20 @@ a:has(> img):hover {
 .floating-right {
     float: right;
 	margin-left: 2em;
+}
+
+img.floating-icon {
+    width: 5em;
+    height: 5em;
+    margin-bottom: 1em;
+}
+
+img.floating-icon.floating-left {
+    margin-right: 1em;
+}
+
+img.floating-icon.floating-right {
+    margin-left: 1em;
 }
 
 iframe[src^="https://www.youtube.com"] {
