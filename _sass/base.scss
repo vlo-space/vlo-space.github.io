@@ -741,4 +741,32 @@ footer > :last-child > a {
         border-radius: 0;
         width: 100%;
     }
+
+    .hanging-holiday-decoration {
+        // this hardcoded value is not a good thing, but it's temporary anyway so eh
+        top: 30.8em;
+    }
+}
+
+.hanging-holiday-decoration {
+	display: block;
+
+	position: absolute;
+    bottom: -2em;
+
+    pointer-events: none;
+
+	height: 3.5em;
+	width: 100%;
+
+    background-image: url('holiday-decoration.svg');
+	background-size: auto 100%;
+    background-position: center;
+}
+
+.santa-hat-decoration {
+	position: absolute;
+	height: 5em;
+	translate: -3.3em -6em;
+	rotate: -45deg;
 }
