@@ -25,6 +25,6 @@ operatora stacji naziemnej.
 
 Tak jak w&nbsp;zeszłym roku, warsztaty przeprowadziliśmy w&nbsp;ZSP 17 w&nbsp;Gliwicach, tym razem -- dla klas
 piątych i&nbsp;szóstych. Kamil zorganizował i&nbsp;był głównym prowadzącym warsztatów, natomiast Janek
-&nbsp;i Kuba prezentowali części mechaniczne, oraz tłumaczyli ucziom ich działanie.
+&nbsp;i Kuba prezentowali części mechaniczne, oraz tłumaczyli uczniom ich działanie.
 
 Całe warsztaty zajęły nam 5&nbsp;godzin lekcyjnych, a&nbsp;przeprowadziliśmy je wśród aż 107 uczniów!
